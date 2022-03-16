@@ -1,8 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using BenjaminFriske.Portal.Services;
-using System;
 
-namespace BenjaminFriske.Portal.Tests;
+namespace BenjaminFriske.Portal.Tests.Services;
 
 [TestClass]
 public class TemplateServiceTest
